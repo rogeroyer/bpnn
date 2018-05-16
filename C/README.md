@@ -1,1 +1,1 @@
-<p align="center"><em>BP神经网络的C++实现</em></p>
+<h2 align="center"><em>BP神经网络的C++实现</em></p>
